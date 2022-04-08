@@ -26,16 +26,15 @@ This project is for research purpose only, please contact us for the licence of 
 - If you find this work useful for you. Please cite:
 
 @ARTICLE{9749233,  
-author={Jiang, Qiuping and Gu, Yuese and Li, Chongyi and Cong, Runmin and Shao, Feng},  
-journal={IEEE Transactions on Circuits and Systems for Video Technology},   
-title={Underwater Image Enhancement Quality Evaluation: Benchmark Dataset and Objective Metric},   
-year={2022},  
-volume={},  
-number={},  
-pages={1-1},  
-doi={10.1109/TCSVT.2022.3164918}
+  author={Jiang, Qiuping and Gu, Yuese and Li, Chongyi and Cong, Runmin and Shao, Feng},  
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},   
+  title={Underwater Image Enhancement Quality Evaluation: Benchmark Dataset and Objective Metric},   
+  year={2022},  
+  volume={},  
+  number={},  
+  pages={1-1},  
+  doi={10.1109/TCSVT.2022.3164918}
 }
-
 
 Our dataset will be open soon!!!
 
