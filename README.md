@@ -23,7 +23,7 @@ matlab
 This project is for research purpose only, please contact us for the licence of commercial use. For any other questions please contact jiangqiuping@nbu.edu.cn.
 
 ## 🔍 Citation
-If you find this work useful for you. Please cite:
+- If you find this work useful for you. Please cite:
 @ARTICLE{9749233,  
 author={Jiang, Qiuping and Gu, Yuese and Li, Chongyi and Cong, Runmin and Shao, Feng},  
 journal={IEEE Transactions on Circuits and Systems for Video Technology},   
