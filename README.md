@@ -2,7 +2,7 @@
 implementation of ''Underwater Image Enhancement Quality Evaluation: Benchmark Dataset and Objective Metric''.
 
 ## 📋 Table of content
-1. 📎[Paper Link](#paper-Link)
+1. 📎[Paper Link](#📎-paper-link)
 2. 💡[Abstract](#abstract)
 3. 📃[Requirements](#requirements)
 
