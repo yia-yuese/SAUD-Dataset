@@ -24,8 +24,7 @@ This project is for research purpose only, please contact us for the licence of 
 
 ## 🔍 Citation
 - If you find this work useful for you. Please cite:
-
-@ARTICLE{9749233,  
+>@ARTICLE{9749233,  
 >author={Jiang, Qiuping and Gu, Yuese and Li, Chongyi and Cong, Runmin and Shao, Feng},  
 >journal={IEEE Transactions on Circuits and Systems for Video Technology},   
 >title={Underwater Image Enhancement Quality Evaluation: Benchmark Dataset and Objective Metric},   
