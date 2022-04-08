@@ -2,11 +2,11 @@
 implementation of ''Underwater Image Enhancement Quality Evaluation: Benchmark Dataset and Objective Metric''.
 
 ## 📋 Table of content
-1. 📎[Paper Link](#paper-link)
+1. 📎[Paper Link](#📎paper-link)
 2. 💡[Abstract](#💡abstract)
 3. 📃[Requirements](#📃requirements)
 
-## 📎 ## Paper Link
+## 📎Paper Link
 Underwater Image Enhancement Quality Evaluation: Benchmark Dataset and Objective Metric ([link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9749233 "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9749233"))
 - Authors: Qiuping Jiang, Yuese Gu, Chongyi Li, Runmin Cong, Feng Shao
 - Institution: The School of Information Science and Engineering, Ningbo University
