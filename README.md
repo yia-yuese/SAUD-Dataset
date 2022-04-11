@@ -26,6 +26,7 @@ You can download our SAUD-Dataset from
 >BaiduYun Disk: [SAUD-Dataset-released](https://pan.baidu.com/s/1za34vyTa1Ms-RfuOPAbl6w)  (key:yiaa)
 
 You can download our NUIQ-Metric from
+>BaiduYun Disk: [NUIQ-Metric-released](https://pan.baidu.com/s/1g47JmZCciLfOpfW4IdI44g)  (key:yiaa)
 
 ## ✨Statement
 This project is for research purpose only, please contact us for the licence of commercial use. For any other questions please contact jiangqiuping@nbu.edu.cn. 805682724@qq.com.
