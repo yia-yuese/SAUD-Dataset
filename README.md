@@ -19,7 +19,7 @@ Due to the attenuation and scattering of light by water, there are many quality 
 NR-IQA metrics.
 
 ## 📃Requirements
-matlab
+matlab 
 
 ## ✏️Usage
 You can download our SAUD-Dataset from
