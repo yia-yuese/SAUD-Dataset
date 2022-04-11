@@ -28,7 +28,7 @@ You can download our SAUD-Dataset from
 You can download our NUIQ-Metric from
 
 ## ✨Statement
-This project is for research purpose only, please contact us for the licence of commercial use. For any other questions please contact jiangqiuping@nbu.edu.cn.
+This project is for research purpose only, please contact us for the licence of commercial use. For any other questions please contact jiangqiuping@nbu.edu.cn. 805682724@qq.com.
 
 ## 🔍Citation
 - If you find this work useful for you. Please cite:
