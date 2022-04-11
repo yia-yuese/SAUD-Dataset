@@ -21,11 +21,11 @@ NR-IQA metrics.
 ## 📃Requirement
 matlab
 
-## ✨Usage
+## 📖Usage
 You can download our SAUD-Dataset from
 You can download our NUIQ-Metric from
 
-## Statement
+## ✨Statement
 This project is for research purpose only, please contact us for the licence of commercial use. For any other questions please contact jiangqiuping@nbu.edu.cn.
 
 ## 🔍Citation
