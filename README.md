@@ -5,8 +5,8 @@ implementation of ''Underwater Image Enhancement Quality Evaluation: Benchmark D
 1. 📎[Paper Link](#paper-link)
 2. 💡[Abstract](#abstract)
 3. 📃[Requirement](#requirement)
-4. ✏️[Usage](#usage)
-5. ✉️[Statement](#statement)
+4. 📖[Usage](#usage)
+5. ✨[Statement](#statement)
 6. 🔍[Citation](#citation)
 
 ## 📎Paper Link
@@ -21,7 +21,7 @@ NR-IQA metrics.
 ## 📃Requirement
 matlab
 
-## Usage
+## ✨Usage
 You can download our SAUD-Dataset from
 You can download our NUIQ-Metric from
 
