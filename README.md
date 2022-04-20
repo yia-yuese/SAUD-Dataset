@@ -32,6 +32,9 @@ You can download our NUIQ-Metric from
 >
 >Google Drive: [NUIQ-Metric-released](https://drive.google.com/drive/folders/13d19eHTT1xBK5ZX0S_R6qXKWg4Egsylz?usp=sharing)
 
+## 🍎Noting
+For our NUIQ-Metric, the model was trained to predict the rank in each group (the enhanced image of the same raw image). So the test result scores should be used to compare in one group which means it is no value to compare the scores between different groups.
+
 ## ✨Statement
 This project is for research purpose only, please contact us for the licence of commercial use. For any other questions please contact jiangqiuping@nbu.edu.cn. 805682724@qq.com.
 
