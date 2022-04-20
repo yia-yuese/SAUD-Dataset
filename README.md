@@ -52,6 +52,4 @@ This project is for research purpose only, please contact us for the licence of 
 >doi={10.1109/TCSVT.2022.3164918}
 }
 
-Our dataset will be open soon!!!
-
 [回到顶部](#readme)
