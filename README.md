@@ -6,8 +6,9 @@ implementation of ''Underwater Image Enhancement Quality Evaluation: Benchmark D
 2. 💡[Abstract](#abstract)
 3. 📃[Requirement](#requirement)
 4. 📖[Usage](#usage)
-5. ✨[Statement](#statement)
-6. 🔍[Citation](#citation)
+5. 🍎[Noting](#noting)
+6. ✨[Statement](#statement)
+7. 🔍[Citation](#citation)
 
 ## 📎Paper Link
 Underwater Image Enhancement Quality Evaluation: Benchmark Dataset and Objective Metric ([link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9749233 "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9749233"))
