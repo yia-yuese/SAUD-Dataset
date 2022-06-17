@@ -35,6 +35,7 @@ You can download our NUIQ-Metric from
 
 ## 🍎Noting
 Our NUIQ Metric was trained to predict the rank of different enhanced results associated with the same raw underwater image. Therefore, the NUIQ scores cannot be used to compare the quality of enhanced images with different contents.
+Do not test on single image!
 
 ## ✨Statement
 This project is for research purpose only, please contact us for the licence of commercial use. For any other questions please contact jiangqiuping@nbu.edu.cn. 805682724@qq.com.
