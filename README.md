@@ -1,4 +1,4 @@
-# SAUD-Dataset and NUIQ-Metric for underwater image enhancement
+# SAUD-Dataset and NUIQ-Method for underwater image enhancement
 implementation of ''Underwater Image Enhancement Quality Evaluation: Benchmark Dataset and Objective Metric''.
 
 ## 📋 Table of content
@@ -34,7 +34,7 @@ You can download our NUIQ-Metric from
 >Google Drive: [NUIQ-Metric-released](https://drive.google.com/drive/folders/13d19eHTT1xBK5ZX0S_R6qXKWg4Egsylz?usp=sharing)
 
 ## 🍎Noting
-Our NUIQ Metric was trained to predict the rank of different enhanced results associated with the same raw underwater image. Therefore, the NUIQ scores cannot be used to compare the quality of enhanced images with different contents.
+Our NUIQ Method was trained to predict the rank of different enhanced results associated with the same raw underwater image. Therefore, the NUIQ scores cannot be used to compare the quality of enhanced images with different contents.
 Do not test on single image!
 
 ## ✨Statement
